@@ -66,4 +66,4 @@ def astrophysics(vol, atoms, t):
     print "Pressure in container is %s barye" %pressure
     
 
-astrophysics(1000000.0, 10.0**20, 5870.0)
+astrophysics(1000000.0, 10.0**20 5870.0)
